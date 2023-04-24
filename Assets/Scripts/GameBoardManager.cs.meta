@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c7589dae44325e34ca49fde6f8209b88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boardSquarePrefab: {fileID: 1261999426899098128, guid: b9522b20cd72aae44ba6b4fb98b6d761, type: 3}
+  - whiteMaterial: {fileID: 2100000, guid: c39b7bc90dfc27348914fae3d22408b7, type: 2}
+  - blackMaterial: {fileID: 2100000, guid: 0e0273d93b4406b4a88cb37ebfcfb71e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
